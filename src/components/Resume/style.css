@@ -1,0 +1,45 @@
+#about-me-image {
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+}
+
+#color {
+    background-color: grey;
+}
+
+.card {
+    margin: 15px;
+}
+
+#about {
+    color: black;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+}
+
+h3 {
+    font-family: 'Share Tech', sans-serif;
+}
+
+.skill {
+    border-style: solid;
+    border-color: grey;
+    border-radius: 10px;
+    background-color: grey;
+    padding: 3px;
+    float: left;
+    margin: 3px;
+}
+
+.skill:hover {
+    background-color: grey;
+    border-color: grey;
+    box-shadow: inset 0 0 10px black;
+}
+
+.image-thumbnail {
+    border: 0px;
+    width: 20vw;
+    /* height:50px; */
+}

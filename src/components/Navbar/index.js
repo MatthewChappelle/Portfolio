@@ -25,11 +25,22 @@ function Navbar() {
                             <span className="text-color glow">ABOUT</span>
                         </Link>
                     </li>
-                    {/* <li className="nav-item">
-                        <Link className="nav-link" to="/contact">
-                        <span className="text-color glow">contact</span>
+                    <li className="nav-item">
+                        <Link className="nav-link" to="/portfolio">
+                        <span className="text-color glow">PORTFOLIO</span>
                         </Link>
-                    </li> */}
+                    </li>
+                    <li className="nav-item">
+                        <Link className="nav-link" to="/contact">
+                        <span className="text-color glow">CONTACT</span>
+                        </Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link className="nav-link" to="/resume">
+                        <span className="text-color glow">RESUME</span>
+                        </Link>
+                    </li>
+
                 </ul>
             </div>
         </nav>

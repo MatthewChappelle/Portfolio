@@ -3,7 +3,7 @@ import mugshot from "../../assets/mugshot.png"
 import "./style.css";
 
 function AboutMe() {
-  const skills = ['JavaScript', 'CSS', 'HTML', 'Bootstrap', 'React', 'JQuery', 'MySQL', 'MongoDB', 'Express', 'Handlebars', 'OOP', 'Node.js', 'Ajax', 'Git']
+  
   return (
     <div className="row">
       <div className="col-md-11 col-sm-12">

@@ -20,7 +20,7 @@ function Project(props) {
     return (
         <div>  
             {column.map((project, index) => (
-                <div className="row" key={index}>
+                <div className="row" style={{ marginRight: 0 }} key={index}>
                     {project.map(item => (
                         <div className="col-12-xs col-md-6" key={item.name}>
                             <div className="shadow card bg-light">

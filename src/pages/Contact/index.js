@@ -4,7 +4,7 @@ import EmailForm from "../../components/EmailForm";
 
 function Contact() {
   return (
-    <div className="row">
+    <div className="row" style={{ marginRight: 0 }}>
       <EmailForm></EmailForm>
       <ContactInfo></ContactInfo>
     </div>

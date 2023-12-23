@@ -3,10 +3,10 @@ import mugshot from "../../assets/mugshot.png"
 import "./style.css";
 
 function AboutMe() {
-  
+
   return (
-    <div className="row">
-      <div className="col-md-11 col-sm-12">
+    <div className="row" style={{ marginRight: 0 }}>
+      <div className="col-md-10 col-sm-12">
         <div className="card bg-light">
           <div className="card-body">
             <h1 className="card-title" title="About Me"><span id="about">About Me:</span></h1>

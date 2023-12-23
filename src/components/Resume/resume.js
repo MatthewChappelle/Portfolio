@@ -4,7 +4,7 @@ import "./style.css";
 function Resume() {
 
   return (
-    <div className="row">
+    <div className="row" style={{ marginRight: 0 }}>
       <div className="col-md-8 col-sm-12">
         <div className="card bg-light">
           <div className="card-body">

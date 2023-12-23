@@ -1,0 +1,32 @@
+.home-container {
+    padding: 20px;
+}
+
+#image {
+    width: 20%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-thumbnail {
+    border: 0px;
+    width: 20vw;
+    /* height:50px; */
+}
+
+#greeting {
+    text-align: center;
+    color: white;
+}
+
+#role {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+
+
+
+

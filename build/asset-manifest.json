@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/matthewchappelleportfolio.netlify.app/static/css/main.6fa823e2.css",
+    "main.js": "/matthewchappelleportfolio.netlify.app/static/js/main.b927b589.js",
+    "static/media/mugshot.png": "/matthewchappelleportfolio.netlify.app/static/media/mugshot.13900ce6cc037e429d76.png",
+    "static/media/background.jpg": "/matthewchappelleportfolio.netlify.app/static/media/background.ead6f31f7452417059d3.jpg",
+    "index.html": "/matthewchappelleportfolio.netlify.app/index.html",
+    "main.6fa823e2.css.map": "/matthewchappelleportfolio.netlify.app/static/css/main.6fa823e2.css.map",
+    "main.b927b589.js.map": "/matthewchappelleportfolio.netlify.app/static/js/main.b927b589.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa823e2.css",
+    "static/js/main.b927b589.js"
+  ]
+}

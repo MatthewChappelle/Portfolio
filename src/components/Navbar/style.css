@@ -1,0 +1,45 @@
+#navbarText:hover {
+    color: black;
+}
+#navbarText {
+    margin: 20px;
+    font-family: 'Share Tech', sans-serif;
+    /* font-family: 'Patrick Hand', cursive; */
+}
+
+.navbar {
+    background: fixed;
+    background-color: rgba(20, 66, 45, 0.5); /* black with 50% opacity */
+    height: 80px;
+}
+
+#name {
+    color: rgb(190, 190, 190);
+    /* font-family: 'Patrick Hand', cursive; */
+    font-family: 'Share Tech', sans-serif;
+    font-size: 40px;
+}
+
+#name:hover {
+    color: grey;
+}
+
+.nav-link {
+    font-size: 30px;
+}
+
+.text-color {
+    color:black;
+}
+
+.glow:hover {
+    color: lightgrey;
+    text-shadow: 0px 3px 5px rgb(99, 216, 171);
+}
+
+.active {
+    color: black;
+}
+
+
+

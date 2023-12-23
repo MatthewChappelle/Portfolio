@@ -6,43 +6,43 @@ function Portfolio(props) {
 //   const imagePath = "./Assets/Images/"
   const projects = [
     {
-        name: 'App HERE',
+        name: 'APP PLACEHOLDER',
         // imageURL: imagehere,
         appLink: "link here",
         githubLink: "repohere"
     },
     {
-        name: 'App HERE',
+        name: 'APP PLACEHOLDER',
         // imageURL: imagehere,
         appLink: "link here",
         githubLink: "repohere"
     },
     {
-        name: 'App HERE',
+        name: 'APP PLACEHOLDER',
         // imageURL: imagehere,
         appLink: "link here",
         githubLink: "repohere"
     },
     {
-        name: 'App HERE',
+        name: 'APP PLACEHOLDER',
         // imageURL: imagehere,
         appLink: "link here",
         githubLink: "repohere"
     },
     {
-        name: 'App HERE',
+        name: 'APP PLACEHOLDER',
         // imageURL: imagehere,
         appLink: "link here",
         githubLink: "repohere"
     },
     {
-        name: 'App HERE',
+        name: 'APP PLACEHOLDER',
         // imageURL: imagehere,
         appLink: "link here",
         githubLink: "repohere"
     },
     {
-        name: 'App HERE',
+        name: 'APP PLACEHOLDER',
         // imageURL: imagehere,
         appLink: "link here",
         githubLink: "repohere"
